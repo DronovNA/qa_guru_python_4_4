@@ -1,4 +1,5 @@
-
+import math
+import random
 
 def test_greeting():
     """
@@ -7,7 +8,7 @@ def test_greeting():
     name = "Анна"
     age = 25
     # TODO Сформируйте нужную строку
-    output = ""
+    output =
     # Проверяем результат
     assert output == "Привет, Анна! Тебе 25 лет."
 
